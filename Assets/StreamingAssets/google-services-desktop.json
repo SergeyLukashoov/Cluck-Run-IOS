@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "280279298275",
+    "project_id": "cluck-run",
+    "storage_bucket": "cluck-run.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280279298275:ios:60b5a5cbe3023b14b415d6",
+        "android_client_info": {
+          "package_name": "com.autofillgames.cluckrun"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmyWUVFdlBxr5F-gkKZzPCVD79YLtZz04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a72fb30044e34b0e93bbda6449d7971
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 308330
+  packageName: Haptic Feedback
+  packageVersion: 1.0
+  assetPath: Assets/Techjuego/HapticFeedback/Example/Scripts/CallHapticFeedback.cs
+  uploadId: 782548
