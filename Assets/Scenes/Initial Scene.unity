@@ -428,6 +428,18 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: cb65452d0f7a2574a84ddcf853f5e9aa, type: 3}
     - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: IOS_ID
+      value: 6751840104
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: endpoint
+      value: https://cluckrun.com/config.php
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
+      propertyPath: appsflyerDevID
+      value: 5MVyMLb9mWFfj6x46Nnms
+      objectReference: {fileID: 0}
+    - target: {fileID: 7585373355302651059, guid: 3376294fb51ed4820a844266f8aef425, type: 3}
       propertyPath: '_sleepObjects.Array.data[0]'
       value: 
       objectReference: {fileID: 860413754}
