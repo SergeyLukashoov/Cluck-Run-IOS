@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: ScreenshotManager
   m_EditorClassIdentifier: 
   scale: 1
-  width: 1440
-  height: 2960
+  width: 1320
+  height: 2868
   myCamera0: {fileID: 0}
   isTransparent: 0
   title: Instant Screenshot
-  path: C:/Work/Chicken Run/Assets
+  path: /Users/endi/Desktop/Cluck Run IOs
