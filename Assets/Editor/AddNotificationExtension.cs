@@ -109,6 +109,8 @@ public static class AddNotificationExtension
         ats.SetBoolean("NSAllowsLocalNetworking", true);
         ats.SetBoolean("NSAllowsArbitraryLoadsForMedia", true);
 
+        root.SetBoolean("FirebaseMessagingAutoInitEnabled", false);
+
         File.WriteAllText(plist, doc.WriteToString());
     }
 
